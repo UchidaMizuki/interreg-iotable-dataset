@@ -1,0 +1,6 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+check_interreg_iotable_japan|function|efd1a985c682a53e|||||||||||||||
+file_interreg_iotable_japan|stem|3499be5e1f69139c|667d2ee5c5e4def6|ef46db3751d8e999|-559506909|data-raw/interreg-iotable-japan/1970-43.xlsx*data-raw/interreg-iotable-japan/1975-43.xlsx*data-raw/interreg-iotable-japan/1980-43.xlsx*data-raw/interreg-iotable-japan/1985-45.xlsx*data-raw/interreg-iotable-japan/1990-46.xlsx*data-raw/interreg-iotable-japan/1995-46.xlsx*data-raw/interreg-iotable-japan/2005-53.xlsx|t19660.5835521198s|6883ec7e58373627|64930833|file|local|vector|||0.86||
+get_interreg_iotable_japan|function|95bf3c3f3ade62a3|||||||||||||||
+interreg_iotable_japan|stem|d6599e871cc97295|eea2c9ef58cc8fa4|d16d81cf596e3ce1|293174733||t19660.5891842599s|e01b0ea53ba54e08|1607443|qs|local|vector|||8.156||
+read_interreg_iotable_japan|function|b57df027bb8e84e2|||||||||||||||
