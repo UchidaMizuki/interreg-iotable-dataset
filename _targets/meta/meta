@@ -1,6 +1,22 @@
 name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
-check_interreg_iotable_japan|function|efd1a985c682a53e|||||||||||||||
-file_interreg_iotable_japan|stem|3499be5e1f69139c|667d2ee5c5e4def6|ef46db3751d8e999|-559506909|data-raw/interreg-iotable-japan/1970-43.xlsx*data-raw/interreg-iotable-japan/1975-43.xlsx*data-raw/interreg-iotable-japan/1980-43.xlsx*data-raw/interreg-iotable-japan/1985-45.xlsx*data-raw/interreg-iotable-japan/1990-46.xlsx*data-raw/interreg-iotable-japan/1995-46.xlsx*data-raw/interreg-iotable-japan/2005-53.xlsx|t19660.5835521198s|6883ec7e58373627|64930833|file|local|vector|||0.86||
-get_interreg_iotable_japan|function|95bf3c3f3ade62a3|||||||||||||||
-interreg_iotable_japan|stem|d6599e871cc97295|eea2c9ef58cc8fa4|d16d81cf596e3ce1|293174733||t19660.5891842599s|e01b0ea53ba54e08|1607443|qs|local|vector|||8.156||
-read_interreg_iotable_japan|function|b57df027bb8e84e2|||||||||||||||
+check_interreg_iotable|function|984546206f172e7d|||||||||||||||
+check_interreg_iotable_comp_japan|function|efd1a985c682a53e|||||||||||||||
+check_interreg_iotable_indonesia_2016|function|8d984f356d1c5e96|||||||||||||||
+check_interreg_iotable_japan|function|984546206f172e7d|||||||||||||||
+download_interreg_iotable_comp_japan|function|33f76e052e2405a3|||||||||||||||
+download_interreg_iotable_indonesia_2016|function|79078defb09a3af4|||||||||||||||
+download_interreg_iotable_japan|function|a824f0518efd853a|||||||||||||||
+download_interreg_iotable_noncomp_indonesia_2016|function|95108d4a1dc8e774|||||||||||||||
+file_interreg_iotable_comp_japan|stem|3499be5e1f69139c|8eff586437c848b6|59ae48f7e0f88b54|-1097102136|data-raw/interreg-iotable-comp-japan/1970-43ind.xlsx*data-raw/interreg-iotable-comp-japan/1975-43ind.xlsx*data-raw/interreg-iotable-comp-japan/1980-43ind.xlsx*data-raw/interreg-iotable-comp-japan/1985-45ind.xlsx*data-raw/interreg-iotable-comp-japan/1990-46ind.xlsx*data-raw/interreg-iotable-comp-japan/1995-46ind.xlsx*data-raw/interreg-iotable-comp-japan/2005-53ind.xlsx|t19692.3611523217s|6883ec7e58373627|64930833|file|local|vector|||27.079|package dplyr was built under R version 4.3.2. package stringr was built under R version 4.3.2|
+file_interreg_iotable_indonesia|stem||a7c739d2700e4bc2|ef46db3751d8e999|766622957||t19692.3660277735s||0|file|local|vector|||0.516|package dplyr was built under R version 4.3.2. package stringr was built under R version 4.3.2|could not find function download_interreg_iotable_indonesia
+file_interreg_iotable_indonesia_2016|stem|7a390cb7a77833d6|d12430bc3d87f3e7|d3eec1a427465a53|1888921774|data-raw/interreg-iotable-indonesia/2016/34reg-17ind.xlsx*data-raw/interreg-iotable-indonesia/2016/34reg-52ind.xlsx*data-raw/interreg-iotable-indonesia/2016/6reg-17ind.xlsx*data-raw/interreg-iotable-indonesia/2016/6reg-52ind.xlsx|t19692.3675539381s|a7642c4324b76d98|51805166|file|local|vector|||28.14|package dplyr was built under R version 4.3.2. package stringr was built under R version 4.3.2|
+file_interreg_iotable_japan|stem|3499be5e1f69139c|ede7090de0a3ed64|fe595dbed6651079|-559506909|data-raw/interreg-iotable-japan/1970-43ind.xlsx*data-raw/interreg-iotable-japan/1975-43ind.xlsx*data-raw/interreg-iotable-japan/1980-43ind.xlsx*data-raw/interreg-iotable-japan/1985-45ind.xlsx*data-raw/interreg-iotable-japan/1990-46ind.xlsx*data-raw/interreg-iotable-japan/1995-46ind.xlsx*data-raw/interreg-iotable-japan/2005-53ind.xlsx|t19692.3632120313s|6883ec7e58373627|64930833|file|local|vector|||39.782|package dplyr was built under R version 4.3.2. package stringr was built under R version 4.3.2|
+get_interreg_iotable_comp_japan|function|a3efb2dbc6cdd391|||||||||||||||
+get_interreg_iotable_indonesia_2016|function|5336988499206b9f|||||||||||||||
+get_interreg_iotable_japan|function|64d14e93290a41c8|||||||||||||||
+interreg_iotable_comp_japan|stem|1a2039116ec8a7e1|bdeb36353d73a073|e780b6c35b74293f|477794994||t19692.3614406224s|eb22272db33621f3|1607450|qs|local|vector|||8.125||
+interreg_iotable_indonesia_2016|stem|d0f65bd13d7bd418|e7e4dca907e6c25b|c9533b58891d4949|-402378898||t19692.5627019661s|6d58dc8a05a5dc4f|19466776|qs|local|vector|||21.875||
+interreg_iotable_japan|stem|1a2039116ec8a7e1|eea2c9ef58cc8fa4|05a240aaf489120d|293174733||t19692.4948299331s|eb22272db33621f3|1607450|qs|local|vector|||7.985||
+read_interreg_iotable_comp_japan|function|b57df027bb8e84e2|||||||||||||||
+read_interreg_iotable_indonesia_2016|function|e7b396d61a4ef14f|||||||||||||||
+read_interreg_iotable_japan|function|e780a86e22bd3aa0|||||||||||||||
